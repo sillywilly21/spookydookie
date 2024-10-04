@@ -6,6 +6,8 @@
 
 .nav-bar {
     margin-top: 50px;
+    padding: 0 20px; /* Add padding to create space on the sides */
+ box-sizing: border-box;
   background-color: #8a0303; 
   padding: 3px 40px;
   height: 88px;
